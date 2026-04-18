@@ -1,0 +1,1 @@
+let flashcards = []; module.exports = { flashcards };
